@@ -18,6 +18,7 @@ does not work then below are all packages installed into an environment called *
 
 >
 > conda install -c conda-forge notebook
+> 
 > conda install -c conda-forge nb_conda_kernels
 >
 
