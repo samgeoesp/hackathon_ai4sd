@@ -7,9 +7,18 @@ does not work then below are all packages installed into an environment called *
 >
 > conda create -c conda-forge -n hackathon rdkit
 >
+
+>
 > conda install scikit-learn
 >
+
+>
 > conda install -c conda-forge matplotlib 
+>
+
+>
+> conda install -c conda-forge notebook
+> conda install -c conda-forge nb_conda_kernels
 >
 
 This should give the following packages:
